@@ -1,0 +1,9 @@
+[submodule "NSGA-II-and-MLP-Integration"]
+	path = NSGA-II-and-MLP-Integration
+	url = https://github.com/Moni9612/NSGA-II-and-MLP-Integration.git
+[submodule "Experimental_Validation_Setup_for_Optimal_design_testing"]
+	path = Experimental_Validation_Setup_for_Optimal_design_testing
+	url = https://github.com/Moni9612/Experimental_Validation_Setup_for_Optimal_design_testing.git
+[submodule "6D-Grasping-using-HCA-and-PCA-grippers"]
+	path = 6D-Grasping-using-HCA-and-PCA-grippers
+	url = https://github.com/Moni9612/6D-Grasping-using-HCA-and-PCA-grippers.git
