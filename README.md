@@ -59,22 +59,15 @@ A common experimental framework is maintained between the HCA and PCA implementa
 
 ---
 
-## Clone the Complete Project
+## Accessing the Complete Project
 
-Because the three components are included as **Git submodules**, clone the main repository together with all submodules using:
+For double-anonymous review, the three project components are provided as separately anonymized repositories. The corresponding anonymized repository links are provided under each section above.
 
-```bash
-git clone --recurse-submodules <MAIN_REPOSITORY_URL>
-```
+Each repository can be downloaded or cloned independently and contains its own `README.md` with detailed installation, configuration, and execution instructions.
 
-If the main repository has already been cloned without its submodules, initialize and download them using:
-
-```bash
-git submodule update --init --recursive
-```
-
-Each submodule contains its own `README.md` with detailed installation, configuration, and execution instructions.
-
+> **Note:** The original project uses Git submodules; however, submodule contents
+> are not included directly by Anonymous GitHub. Please use the anonymized
+> repository links above to access each component.
 ---
 
 ## Overall Workflow
