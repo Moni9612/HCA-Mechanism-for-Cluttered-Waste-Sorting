@@ -79,22 +79,6 @@ Each submodule contains its own `README.md` with detailed installation, configur
 
 ## Overall Workflow
 
-```text
-Finite-Element Simulation Data
-            ↓
-MLP Surrogate Model
-            ↓
-NSGA-II Geometric Optimization
-            ↓
-Highest-Ranked Pareto Finger Designs
-            ↓
-Experimental Validation
-            ↓
-Optimized HCA Finger Design
-            ↓
-HCA Gripper Integration
-            ↓
-6D Grasping Evaluation
-            ↓
-HCA vs PCA Comparison
-```
+<p align="center">
+  <img src="workflow.png" alt="workflow" width="100%">
+</p>
