@@ -29,7 +29,7 @@ HCA-Mechanism-for-Cluttered-Waste-Sorting
 
 This repository contains the computational framework used for **geometric optimization of the adaptive Fin-Ray finger**.
 
-Finite-element simulation data are used to train a **Multi-Layer Perceptron (MLP)** surrogate model that predicts the mechanical response of candidate finger geometries under different contact conditions. The trained MLP is subsequently integrated with an **NSGA-II-based multi-objective optimization framework** to efficiently explore the design space without requiring repeated finite-element simulations for every newly generated candidate.
+Finite-element simulation data are used to train a **Multi-Layer Perceptron (MLP)** model that predicts the mechanical response of candidate finger geometries under different contact conditions. The trained MLP is subsequently integrated with an **NSGA-II-based multi-objective optimization framework** to efficiently explore the design space without requiring repeated finite-element simulations for every newly generated candidate.
 
 The final constrained Pareto front is evaluated using a normalized **minimum-distance-to-utopia** approach to identify the five highest-ranked finger designs for subsequent validation.
 
