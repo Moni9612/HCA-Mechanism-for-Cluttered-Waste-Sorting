@@ -25,7 +25,7 @@ HCA-Mechanism-for-Cluttered-Waste-Sorting
 
 ## 1. NSGA-II and MLP Integration
 
-[`NSGA-II-and-MLP-Integration`](NSGA-II-and-MLP-Integration)
+[`NSGA-II-and-MLP-Integration`](https://anonymous.4open.science/r/NSGA-II-and-MLP-Integration-B068)
 
 This repository contains the computational framework used for **geometric optimization of the adaptive Fin-Ray finger**.
 
@@ -37,7 +37,7 @@ The final constrained Pareto front is evaluated using a normalized **minimum-dis
 
 ## 2. Experimental Validation Setup for Optimal Design Testing
 
-[`Experimental-Validation-Setup-for-Optimal-design-testing`](Experimental-Validation-Setup-for-Optimal-design-testing)
+[`Experimental-Validation-Setup-for-Optimal-design-testing`](https://anonymous.4open.science/r/Experimental_Validation_Setup_for_Optimal_design_testing-7CFE)
 
 This repository contains the experimental setup and image-processing workflow used to **validate the deformation behaviour of the optimized Fin-Ray finger designs**.
 
@@ -49,7 +49,7 @@ The repository includes the camera acquisition, actuator-control, calibration, m
 
 ## 3. 6D Grasping using HCA and PCA Grippers
 
-[`6D-Grasping-using-HCA-and-PCA-grippers`](6D-Grasping-using-HCA-and-PCA-grippers)
+[`6D-Grasping-using-HCA-and-PCA-grippers`](https://anonymous.4open.science/r/6D-Grasping-using-HCA-and-PCA-grippers-8E5B)
 
 This repository contains two **6D robotic grasping pipelines for cluttered waste sorting**, implemented using the **Hybrid Compliance Activation (HCA) gripper** and the **Passive Compliance Activation (PCA) gripper**.
 
